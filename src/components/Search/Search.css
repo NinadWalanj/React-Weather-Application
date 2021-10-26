@@ -1,0 +1,447 @@
+/* XX-Large */
+@media (min-width: 1400px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+  }
+  .location-para {
+    margin-top: 0.8rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 3rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 18%;
+    line-height: 7rem;
+    width: 13%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+}
+/* X-Large devices (large desktops, less than 1400px) */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+  }
+  .location-para {
+    margin-top: 0.8rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 3rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 18%;
+    line-height: 7rem;
+    width: 13%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+}
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+  }
+  .location-para {
+    margin-top: 0.8rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 3rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 18%;
+    line-height: 7rem;
+    width: 14%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+}
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+  }
+  .location-para {
+    margin-top: 0.8rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 3rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 18%;
+    line-height: 7rem;
+    width: 18%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+}
+/*  Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+    padding-left: 2%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+    font-size: 1.5rem;
+  }
+  .location-para {
+    margin-top: 0.8rem;
+    font-size: 1rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 15%;
+    line-height: 6rem;
+    width: 18%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (min-width: 499px) and (max-width: 575px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+    padding-left: 2%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+    font-size: 1.5rem;
+  }
+  .location-para {
+    margin-top: 0.8rem;
+    font-size: 1rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 15%;
+    line-height: 6rem;
+    width: 18%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+/* XX-Small devices (portrait phones, less than 499px) */
+@media (min-width: 367px) and (max-width: 498px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+    padding-left: 2%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+    font-size: 1.5rem;
+  }
+  .location-para {
+    margin-top: 0.8rem;
+    font-size: 1rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 15%;
+    line-height: 6rem;
+    width: 18%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+/* XXX-Small devices (portrait phones, less than 367px) */
+@media (max-width: 366px) {
+  .search-main {
+    margin-top: 5rem;
+    min-height: 26rem;
+  }
+  .search-box {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+    background: none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 1rem 1rem 1rem 1rem;
+    line-height: 2rem;
+    padding: 1%;
+    padding-left: 2%;
+  }
+
+  .weather-main {
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+  }
+  .location-heading {
+    font-size: 1.5rem;
+  }
+  .location-para {
+    margin-top: 0.8rem;
+    font-size: 1rem;
+  }
+  .temp-degree-div {
+    display: flex;
+    justify-content: center;
+  }
+  .temp-degree {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 1rem;
+    height: 15%;
+    line-height: 6rem;
+    width: 18%;
+    color: black;
+  }
+  .tamp-type-main {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+}
